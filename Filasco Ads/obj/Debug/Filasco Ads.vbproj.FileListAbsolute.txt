@@ -1,0 +1,49 @@
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Filasco Ads.exe.config
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Filasco Ads.exe
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Filasco Ads.pdb
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Filasco Ads.xml
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.vbprojAssemblyReference.cache
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco_Ads.Form1.resources
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco_Ads.Resources.resources
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.vbproj.GenerateResource.cache
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.exe
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.xml
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.pdb
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Filasco Ads.exe.manifest
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Filasco Ads.application
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.exe.manifest
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.application
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco_Ads.Form2.resources
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Interop.SKYPE4COMLib.dll
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.vbproj.ResolveComReference.cache
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco_Ads.Form3.resources
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\MySql.Data.dll
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Google.Protobuf.dll
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\Renci.SshNet.dll
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\bin\Debug\MySql.Data.xml
+C:\Users\tonmo\source\repos\Filasco Ads\Filasco Ads\obj\Debug\Filasco Ads.vbproj.CopyComplete
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Filasco Ads.exe.config
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Filasco Ads.exe.manifest
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Filasco Ads.application
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Filasco Ads.exe
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Filasco Ads.pdb
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Filasco Ads.xml
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Google.Protobuf.dll
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\BouncyCastle.Crypto.dll
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\Renci.SshNet.dll
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\bin\Debug\MySql.Data.xml
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.vbproj.AssemblyReference.cache
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.vbproj.ResolveComReference.cache
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco_Ads.Form1.resources
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco_Ads.Form2.resources
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco_Ads.Form3.resources
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco_Ads.Resources.resources
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.vbproj.GenerateResource.cache
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.vbproj.CoreCompileInputs.cache
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.exe.manifest
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.application
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.vbproj.CopyComplete
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.exe
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.xml
+G:\My Projects\VB project\New filasco ads\Filasco Ads 1\Filasco Ads\obj\Debug\Filasco Ads.pdb
